@@ -9,8 +9,18 @@
     <managingEditor>info@sdvigo.se (Saso)</managingEditor>
     <webMaster>info@sdvigo.se (Saso)</webMaster>
     <copyright>(c) 2015 Advigo.</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 18:47:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jan 2017 10:02:55 +0000</lastBuildDate>
     <atom:link href="https://advigo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>news</title>
+      <link>https://advigo.github.io/news/</link>
+      <pubDate>Sun, 29 Jan 2017 10:02:55 +0000</pubDate>
+      <author>info@sdvigo.se (Saso)</author>
+      <guid>https://advigo.github.io/news/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;News&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>firstpost</title>
