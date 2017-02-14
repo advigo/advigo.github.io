@@ -5,10 +5,7 @@
     <link>https://advigo.github.io/index.xml</link>
     <description>Recent content on Advigo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-EN</language>
-    <managingEditor>info@sdvigo.se (Saso)</managingEditor>
-    <webMaster>info@sdvigo.se (Saso)</webMaster>
-    <copyright>(c) 2015 Advigo.</copyright>
+    <language>en-us</language>
     <lastBuildDate>Sun, 29 Jan 2017 10:02:55 +0000</lastBuildDate>
     <atom:link href="https://advigo.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,7 +13,7 @@
       <title>news</title>
       <link>https://advigo.github.io/news/</link>
       <pubDate>Sun, 29 Jan 2017 10:02:55 +0000</pubDate>
-      <author>info@sdvigo.se (Saso)</author>
+      
       <guid>https://advigo.github.io/news/</guid>
       <description>&lt;p&gt;&lt;strong&gt;News&lt;/strong&gt;&lt;/p&gt;
 </description>
@@ -24,10 +21,10 @@
     
     <item>
       <title>firstpost</title>
-      <link>https://advigo.github.io/2017/01/01/firstpost/</link>
+      <link>https://advigo.github.io/post/firstpost/</link>
       <pubDate>Sun, 01 Jan 2017 18:47:52 +0000</pubDate>
-      <author>info@sdvigo.se (Saso)</author>
-      <guid>https://advigo.github.io/2017/01/01/firstpost/</guid>
+      
+      <guid>https://advigo.github.io/post/firstpost/</guid>
       <description>
 
 &lt;h1 id=&#34;use-your-iphone-or-ipad-to-charge-creditcards&#34;&gt;Use your iphone or ipad to charge creditcards.&lt;/h1&gt;
@@ -40,7 +37,7 @@
       <title>about</title>
       <link>https://advigo.github.io/about/</link>
       <pubDate>Sun, 01 Jan 2017 18:43:41 +0000</pubDate>
-      <author>info@sdvigo.se (Saso)</author>
+      
       <guid>https://advigo.github.io/about/</guid>
       <description>&lt;p&gt;More information will be up soon..&lt;/p&gt;
 </description>
@@ -50,7 +47,7 @@
       <title>home</title>
       <link>https://advigo.github.io/home/</link>
       <pubDate>Sun, 01 Jan 2017 18:41:54 +0000</pubDate>
-      <author>info@sdvigo.se (Saso)</author>
+      
       <guid>https://advigo.github.io/home/</guid>
       <description>
 
